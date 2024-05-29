@@ -1,0 +1,114 @@
+[{
+  "_id": {
+    "$oid": "6649fa59cdae9dfe4e0e2fbe"
+  },
+  "email": "eve.adams@example.com",
+  "password": "$2b$10$6R28NwJln/a/dviatz089OU203h.lLVR5aRAupcvPbmMEad5jnXgG",
+  "firstname": "Eve",
+  "lastname": "Adams",
+  "role": "user",
+  "isActive": true,
+  "avatar": "eve_avatar.jpg",
+  "createdAt": {
+    "$date": "2024-05-19T13:10:49.885Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T13:10:49.885Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649fa74cdae9dfe4e0e2fc1"
+  },
+  "email": "john.doe@example.com",
+  "password": "$2b$10$rVZCNGZ4LoY2arlO9N05LefnnRaM8tdcslDVFN59qeB0IimKVu/5i",
+  "firstname": "John",
+  "lastname": "Doe",
+  "role": "admin",
+  "isActive": true,
+  "avatar": "john_avatar.jpg",
+  "createdAt": {
+    "$date": "2024-05-19T13:11:16.718Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T13:11:16.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649fa89cdae9dfe4e0e2fc4"
+  },
+  "email": "david.jones@example.com",
+  "password": "$2b$10$CoVW/hf0whrvV/AaeQtK0.GLHiqeerA81e0FJgz/TU7b9WwjH.xXy",
+  "firstname": "David",
+  "lastname": "Jones",
+  "role": "user",
+  "isActive": true,
+  "avatar": "david_avatar.jpg",
+  "createdAt": {
+    "$date": "2024-05-19T13:11:37.674Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T13:11:37.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649fa94cdae9dfe4e0e2fc7"
+  },
+  "email": "carla.smith@example.com",
+  "password": "$2b$10$nEZGD.xJtnHAuk7QjTcqFerXUba/i0f8oTN62POITT/xV.VIp4NpO",
+  "firstname": "Carla",
+  "lastname": "Smith",
+  "role": "user",
+  "isActive": true,
+  "avatar": "carla_avatar.jpg",
+  "createdAt": {
+    "$date": "2024-05-19T13:11:48.321Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T13:11:48.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649fa9ccdae9dfe4e0e2fca"
+  },
+  "email": "bob.builder@example.com",
+  "password": "$2b$10$3klWWth3KfLNWHo7cwS5WutjUl3vCQ/fMkNPlx9UIJEkjmXMkPxb.",
+  "firstname": "Bob",
+  "lastname": "Builder",
+  "role": "user",
+  "isActive": true,
+  "avatar": "bob_avatar.jpg",
+  "createdAt": {
+    "$date": "2024-05-19T13:11:56.913Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T13:11:56.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649faa7cdae9dfe4e0e2fcd"
+  },
+  "email": "alice.wonder@example.com",
+  "password": "$2b$10$BQqyf2YFHDsDNEeaAgYJl.HY3kyaEPjjOMFLOApIjWfKzy7hC9/3i",
+  "firstname": "Alice",
+  "lastname": "Wonder",
+  "role": "user",
+  "isActive": true,
+  "avatar": "alice_avatar.jpg",
+  "createdAt": {
+    "$date": "2024-05-19T13:12:07.107Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T13:12:07.107Z"
+  },
+  "__v": 0
+}]

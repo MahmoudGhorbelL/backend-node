@@ -1,0 +1,102 @@
+[
+{
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "published": "1925-04-10",
+  "description": "A novel about the American Dream and the Roaring Twenties.",
+  "pages": 180,
+  "image": "https://res.cloudinary.com/dlohttr5x/image/upload/v1715651188/jyztqwczqpsel1u73ogt.jpg",
+  "prix": 12.99,
+  "nomcategorie": "Adventure"
+},
+{
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "published": "1960-07-11",
+  "description": "A novel that addresses racial injustice in the American South.",
+  "pages": 281,
+  "image": "https://res.cloudinary.com/dlohttr5x/image/upload/v1715651194/u5egu81fqcypzbhgd2yl.jpg",
+  "prix": 10.50,
+  "nomcategorie": "Biography"
+},
+{
+  "title": "1984",
+  "author": "George Orwell",
+  "published": "1949-06-08",
+  "description": "A classic novel depicting a totalitarian society.",
+  "pages": 328,
+  "image": "https://res.cloudinary.com/dlohttr5x/image/upload/v1715651184/vxf3p0xzt8s9nracaaio.jpg",
+  "prix": 9.99,
+  "nomcategorie": "History"
+},
+{
+  "title": "The Hitchhiker's Guide to the Galaxy",
+  "author": "Douglas Adams",
+  "published": "1979-10-12",
+  "description": "A humorous science fiction series about the adventures of an Englishman and his alien friend.",
+  "pages": 224,
+  "image": "https://res.cloudinary.com/dlohttr5x/image/upload/v1715651185/tmjotpxw4ktqcc1t0mqg.jpg",
+  "prix": 8.75,
+  "nomcategorie": "Science"
+},
+{
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "published": "1813-01-28",
+  "description": "A classic romance novel set in 19th-century England.",
+  "pages": 279,
+  "image": "https://res.cloudinary.com/dlohttr5x/image/upload/v1715651195/avhakq25tr5912hcoaej.jpg",
+  "prix": 11.25,
+  "nomcategorie": "Fantasy"
+},
+{
+  "title": "The Catcher in the Rye",
+  "author": "J.D. Salinger",
+  "published": "1951-07-16",
+  "description": "A novel about teenage angst and rebellion.",
+  "pages": 277,
+  "image": "https://res.cloudinary.com/dlohttr5x/image/upload/v1715651189/wlnreoe42q8yi9fe5ulj.jpg",
+  "prix": 10.99,
+  "nomcategorie": "Adventure"
+},
+{
+  "title": "The Lord of the Rings",
+  "author": "J.R.R. Tolkien",
+  "published": "1954-07-29",
+  "description": "An epic fantasy series set in the fictional world of Middle-earth.",
+  "pages": 1178,
+  "image": "https://res.cloudinary.com/dlohttr5x/image/upload/v1715651192/rtniqw4conicaakut43l.jpg",
+  "prix": 29.99,
+  "nomcategorie": "Fantasy"
+},
+{
+  "title": "Harry Potter and the Sorcerer's Stone",
+  "author": "J.K. Rowling",
+  "published": "1997-06-26",
+  "description": "The first book in the Harry Potter series about a young wizard.",
+  "pages": 320,
+  "image": "https://res.cloudinary.com/dlohttr5x/image/upload/v1715651184/ohnrjdulmxjxupd1k9lw.jpg",
+  "prix": 14.99,
+  "nomcategorie": "Fantasy"
+},
+{
+  "title": "The Alchemist",
+  "author": "Paulo Coelho",
+  "published": "1988-01-01",
+  "description": "A novel about a shepherd's journey to find his personal legend.",
+  "pages": 197,
+  "image": "https://res.cloudinary.com/dlohttr5x/image/upload/v1715651184/znbefhcxusocnz7tlzkh.jpg",
+  "prix": 9.25,
+  "nomcategorie": "Biography"
+},
+{
+  "title": "The Da Vinci Code",
+  "author": "Dan Brown",
+  "published": "2003-03-18",
+  "description": "A mystery thriller involving symbology and secret societies.",
+  "pages": 454,
+  "image": "https://res.cloudinary.com/dlohttr5x/image/upload/v1715651185/krtdanqci5qunzo95ac8.jpg",
+  "prix": 13.50,
+  "nomcategorie": "History"
+}
+]

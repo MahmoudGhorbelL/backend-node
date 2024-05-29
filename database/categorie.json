@@ -1,0 +1,26 @@
+[
+{
+  "nomcategorie": "Textbooks",
+  "imagecategorie":"https://res.cloudinary.com/dlohttr5x/image/upload/v1715650184/h70qh6w2ud7nidcueumd.png"
+},
+{
+  "nomcategorie": "Science",
+  "imagecategorie": "https://res.cloudinary.com/dlohttr5x/image/upload/v1715650289/rnrnek6fodyq875izoud.png"
+},
+{
+  "nomcategorie": "History",
+  "imagecategorie": "https://res.cloudinary.com/dlohttr5x/image/upload/v1715650289/gvm1tngihkbt4x9jv3ue.png"
+},
+{
+  "nomcategorie": "Biography",
+  "imagecategorie": "https://res.cloudinary.com/dlohttr5x/image/upload/v1715650289/ybnmebnrozzbzsi2fn62.png"
+},
+{
+  "nomcategorie": "Adventure",
+  "imagecategorie": "https://res.cloudinary.com/dlohttr5x/image/upload/v1715650290/jwzzfzelmrlhjakhpl1b.png"
+},
+{
+  "nomcategorie": "Fantasy",
+  "imagecategorie": "https://res.cloudinary.com/dlohttr5x/image/upload/v1715650290/xds2vdewvdsijk5ytaql.png"
+}
+]
